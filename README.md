@@ -1,5 +1,5 @@
 <center>HeaGang Jo</center>
-=============
+==============
 Hello, I am Haekang Cho, currently enrolled at the Seoul University of Science and Technology.<br><br>
 I am pursuing a double major and my majors are
 
