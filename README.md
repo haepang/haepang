@@ -13,4 +13,4 @@ My hobbies are:
 * :ledger: Reading books.
 * :stars: Exploring new knowledge.
 
-And, I have a keen interest in the **field of artificial intelligence** and **machine learning.**
+And, I am very interested in the **fields of Artificial Intelligence** and **Machine Learning**.
