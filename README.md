@@ -1,16 +1,16 @@
-### Hi there 👋
+<center>HeaGang Jo</center>
+=============
+Hello, I am Haekang Cho, currently enrolled at the Seoul University of Science and Technology.<br><br>
+I am pursuing a double major and my majors are
 
-<!--
-**haepang/haepang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>*  :computer: Department of Civil Engineering
+>*  :office: Computer Science and Engineering
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My hobbies are:
+
+* :ledger: Reading books.
+* :stars: Exploring new knowledge.
+
+And, I have a keen interest in the **field of artificial** intelligence and **machine learning.**
